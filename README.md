@@ -1,6 +1,6 @@
 # 📦 Nano Crate Suite
 
-> Minimal, (mostly) zero-dependency Rust crates for CLI applications.
+> Minimal, (mostly) zero-dependency Rust crates for focused applications.
 
 A collection of tiny, focused Rust crates built on the standard library alone. Each one does one thing well and keeps its dependency count at zero. The one exception is **nanologger**, whose only dependencies are two other nano crates — [nanocolor](https://crates.io/crates/nanocolor) and [nanotime](https://crates.io/crates/nanotime) — keeping the family entirely self-contained.
 
@@ -136,7 +136,7 @@ fn main() {
 [![Coverage Status](https://coveralls.io/repos/github/anthonysgro/nanologger/badge.svg?branch=main)](https://coveralls.io/github/anthonysgro/nanologger?branch=main)
 [![License](https://img.shields.io/crates/l/nanologger)](https://crates.io/crates/nanologger)
 
-> A minimal, colored logger for Rust CLI applications
+> A minimal logger for Rust.
 
 [GitHub](https://github.com/anthonysgro/nanologger) · [crates.io](https://crates.io/crates/nanologger) · [docs.rs](https://docs.rs/nanologger)
 
