@@ -10,7 +10,7 @@ A collection of tiny, focused Rust crates built on the standard library alone. E
 |-------|-------------|---------|
 | 🎨 [nanocolor](#-nanocolor) | Terminal colors and styles | ![crates.io](https://img.shields.io/crates/v/nanocolor.svg) |
 | ⠋ [nanospinner](#-nanospinner) | Terminal spinners | ![crates.io](https://img.shields.io/crates/v/nanospinner.svg) |
-| ██░░ [nanoprogress](#-nanoprogress) | Progress bars | ![crates.io](https://img.shields.io/crates/v/nanoprogress.svg) |
+| ░ [nanoprogress](#-nanoprogress) | Progress bars | ![crates.io](https://img.shields.io/crates/v/nanoprogress.svg) |
 | 📝 [nanologger](#-nanologger) | Colored, leveled logger | ![crates.io](https://img.shields.io/crates/v/nanologger.svg) |
 | ⏱ [nanotime](#-nanotime) | Time utilities | ![crates.io](https://img.shields.io/crates/v/nanotime.svg) |
 
