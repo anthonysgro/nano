@@ -58,7 +58,7 @@ fn main() {
 [![Coverage Status](https://coveralls.io/repos/github/anthonysgro/nanospinner/badge.svg?branch=main)](https://coveralls.io/github/anthonysgro/nanospinner?branch=main)
 [![License](https://img.shields.io/crates/l/nanospinner)](https://crates.io/crates/nanospinner)
 
-> A minimal, zero-dependency terminal spinner for Rust CLI applications
+> A minimal, zero-dependency terminal spinner for Rust applications
 
 [GitHub](https://github.com/anthonysgro/nanospinner) · [crates.io](https://crates.io/crates/nanospinner) · [docs.rs](https://docs.rs/nanospinner)
 
@@ -94,7 +94,7 @@ fn main() {
 [![Coverage Status](https://coveralls.io/repos/github/anthonysgro/nanoprogress/badge.svg?branch=main)](https://coveralls.io/github/anthonysgro/nanoprogress?branch=main)
 [![License](https://img.shields.io/crates/l/nanoprogress)](https://crates.io/crates/nanoprogress)
 
-> A minimal, zero-dependency terminal progress bar for Rust CLI applications
+> A minimal, zero-dependency terminal progress bar for Rust applications
 
 [GitHub](https://github.com/anthonysgro/nanoprogress) · [crates.io](https://crates.io/crates/nanoprogress) · [docs.rs](https://docs.rs/nanoprogress)
 
@@ -179,7 +179,7 @@ fn main() {
 [![Coverage Status](https://coveralls.io/repos/github/anthonysgro/nanotime/badge.svg?branch=main)](https://coveralls.io/github/anthonysgro/nanotime?branch=main)
 [![License](https://img.shields.io/crates/l/nanotime)](https://crates.io/crates/nanotime)
 
-> A minimal, zero-dependency time utility crate for Rust CLI applications
+> A minimal, zero-dependency time utility crate for Rust applications
 
 [GitHub](https://github.com/anthonysgro/nanotime) · [crates.io](https://crates.io/crates/nanotime) · [docs.rs](https://docs.rs/nanotime)
 
